@@ -14,10 +14,7 @@ A responsive online food ordering website built using **HTML** and **CSS**.
 - CSS
 - Images for products and layout
 
-## How to View
-1. Clone the repository:
-```bash
-git clone https://github.com/Gayu9960/Online_Food_Order.git
+
 
 
 
