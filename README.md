@@ -22,7 +22,7 @@ This project focuses on creating a clean user interface for a food ordering plat
 ---
 
 ## 📸 Screenshot
-![Website Screenshot](hero_image.jpg)
+![Website Screenshot](screenshot.png)
 
 ---
 
